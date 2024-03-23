@@ -45,6 +45,12 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
 <hr>
 
+## Sample Template for User Stories:
+
+![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+
+<hr>
+
 ## UML Classwork Diagram
 
 ![image](https://github.com/toarnabtrainer/USA_BA_268/assets/111301975/305c87a0-a8ef-46e9-96aa-02976c300786)
